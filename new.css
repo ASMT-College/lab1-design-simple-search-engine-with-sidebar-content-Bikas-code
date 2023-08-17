@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+    height: 50px;
+    padding: 0px 70px ;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    width: 100%; 
+}
+
+.menu li{
+    list-style: none;
+    font-family: sans-serif;
+}
+.nav-logo{
+    width: 700px;
+}
+#s{
+    margin-left: 300px;
+}
